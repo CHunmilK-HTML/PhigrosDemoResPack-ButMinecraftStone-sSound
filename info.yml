@@ -1,0 +1,13 @@
+name: Phigros Demo + Minecraft Stone
+author: PigeonGames, Packed by XiaoT_DM, Sound by CHunmilK
+description: hahahahahahahahahahahahahahahahahahah
+hitFx: [5, 9]
+holdAtlas: [50, 318]
+holdAtlasMH: [50, 318]
+hideParticles: true
+hitFxScale: 2.0
+hitFxDuration: 0.72
+holdKeepHead: false
+holdCompact: true
+colorPerfect: 0xE7BF7D
+colorGood: 0x9CE9FE
